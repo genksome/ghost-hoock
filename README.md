@@ -185,7 +185,7 @@ The original GhostLock remains **more complete and powerful** than this fork. `g
 Requires `clang` and `make` in `$PATH`. Tested on Termux; also works via `adb shell` if the toolchain is present.
 
 ```bash
-git clone https://github.com/USERNAME/ghost-hoock
+git clone https://github.com/genksome/ghost-hoock
 cd ghost-hoock
 make
 ```
