@@ -1,0 +1,13 @@
+# build artefacts
+build/
+ghost-hoock
+*.o
+
+# editor / os
+*.swp
+.DS_Store
+Thumbs.db
+
+# local
+*.log
+/tmp/
